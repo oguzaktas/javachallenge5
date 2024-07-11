@@ -9,7 +9,7 @@ This is a Spring Boot application developed as part of Java Challenge 5.
 - Maven
 
 ## Project Structure
-
+![image](https://github.com/user-attachments/assets/7df90f95-7710-43ec-baf7-f5799ba0af4f)
 
 ## Running the Application
 
